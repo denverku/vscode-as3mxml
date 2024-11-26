@@ -94,6 +94,7 @@ import com.networknt.schema.ValidationMessage;
  * AIR application.
  */
 public class ASConfigC {
+	
 	private static final String FILE_EXTENSION_AS = ".as";
 	private static final String FILE_EXTENSION_MXML = ".mxml";
 	private static final String FILE_EXTENSION_ANE = ".ane";
